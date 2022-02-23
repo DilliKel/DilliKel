@@ -1,11 +1,12 @@
 ### Oie! Meu nome Kelvin 👋
+## Tenho 20 anos
+
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra&show_icons=true)
-<!--
 
 
 
-## Tenho 20 anos
 Estudo Ciência da Computação, Estou no 5º Semestre!
 Atuamente trabalho no TI do CREA-RR como Suporte técnico.
 Tenho medo de altura, mas com um pouco de esforço eu chego mais alto.
