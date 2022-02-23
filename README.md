@@ -1,7 +1,9 @@
 ### Oie! Meu nome Kelvin 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra&hide=contribs,prs)
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tenho 20 anos
