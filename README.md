@@ -1,4 +1,4 @@
-## Oie! Meu nome é Kelvin, mas pode me chamar de Dilli!
+## Oie! Meu nome é Kelvin, mas pode me chamar de Dilli! 👋
 <div align="center">
   <a href="https://github.com/dillikel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dillikel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,43 +22,11 @@
  <a href="https://discord.gg/RxEXPhxd5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/dillikel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>
-  
-<!--
-
-# Oie! Meu nome é Kelvin!✌️
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DilliKel)](https://github.com/DilliKel)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillikel/)](https://www.linkedin.com/in/dillikel/)
-
-
-### About me
-src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-### Oie! Meu nome Kelvin 👋
+ ## Sobre mim
 - Tenho 20 anos
 - Estudo Ciência da Computação, Estou no 5º Semestre!
 - Atuamente trabalho no TI do CREA-RR como Suporte técnico.
 - Tenho medo de altura, mas com um pouco de esforço eu chego mais alto.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-**DilliKel/DilliKel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
+<!--
