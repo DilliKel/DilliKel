@@ -1,6 +1,6 @@
 ### Oie! Meu nome Kelvin 👋
-
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DilliKel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tenho 20 anos
 Estudo Ciência da Computação, Estou no 5º Semestre!
