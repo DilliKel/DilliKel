@@ -1,5 +1,6 @@
 ### Oie! Meu nome Kelvin 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDilliKel=anuraghazra&show_icons=true)
 <!--
 
 
