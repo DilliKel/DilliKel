@@ -27,7 +27,7 @@
 - Tenho 20 anos;
 - Estudo Ciência da Computação, Estou no 5º Semestre!
 - Atuamente trabalho no TI do CREA-RR como Suporte técnico;
-- Tenho medo de altura, mas com um pouco de esforço eu chego mais alto.
+- Tenho medo de altura!
 </div>
   
 <!--
