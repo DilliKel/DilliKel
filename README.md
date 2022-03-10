@@ -30,7 +30,7 @@
 - Tenho medo de altura!
 </div>
   
-![Animação de cobra](https://github.com/dillikel/devemdobro/blob/output/github-contribution-grid-snake.svg)
+![Animação de cobra](https://github.com/dillikel/dillikel/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 
