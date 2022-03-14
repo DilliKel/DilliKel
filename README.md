@@ -25,7 +25,7 @@
   
  ## Sobre mim
 - Tenho 20 anos;
-- Estudo Ciência da Computação, Estou no 5º Semestre!
+- Estudo Ciência da Computação, Estou no 6º Semestre!
 - Tenho medo de altura!
 </div>
   
