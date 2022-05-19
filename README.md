@@ -26,7 +26,8 @@
  ## Sobre mim
 - Tenho 20 anos;
 - Estudo Ciência da Computação, Estou no 6º Semestre!
-- Tenho medo de altura!
+- Atualmente estudando tecnologias de Angular e Spring;
+- Reforçando na faculdade C, C++ e Rust.
 </div>
   
 ![Animação de cobra](https://github.com/dillikel/dillikel/blob/output/github-contribution-grid-snake.svg)
