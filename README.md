@@ -24,10 +24,9 @@
  <a href="https://discord.gg/RxEXPhxd5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
  ## Sobre mim
-- Tenho 20 anos;
-- Estudo Ciência da Computação, Estou no 6º Semestre!
-- Atualmente estudando tecnologias de Angular e Spring;
-- Reforçando na faculdade C, C++ e Rust.
+- Tenho 21 anos;
+- Estudo Ciência da Computação, Estou no 6º Semestre. E estudando Python C, C++ e Rust.
+- Atualmente estagiando no Ministério Publico e aprendendo tecnologias de Angular e Spring;
 </div>
   
 ![Animação de cobra](https://github.com/dillikel/dillikel/blob/output/github-contribution-grid-snake.svg)
