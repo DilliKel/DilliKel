@@ -24,7 +24,7 @@
  ## Sobre mim
 - Tenho 21 anos;
 - Estudo Ciência da Computação, Estou no 6º Semestre. E estudando Python C, C++ e Rust.
-- Atualmente estagiando no Ministério Publico e aprendendo tecnologias de Angular e Spring;
+- E praticando por fora Angular e Spring;
 </div>
   
 ![Animação de cobra](https://github.com/dillikel/dillikel/blob/output/github-contribution-grid-snake.svg)
