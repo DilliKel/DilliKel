@@ -23,7 +23,7 @@
   
  ## Sobre mim
 - Tenho 21 anos;
-- Estudo Ciência da Computação, Estou no 6º Semestre. E estudando Python C, C++ e Rust.
+- Estudo Ciência da Computação, Estou no 7º Semestre. E estudando Python C, C++ e Rust.
 - E praticando por fora Angular e Spring;
 </div>
   
