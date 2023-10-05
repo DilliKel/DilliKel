@@ -1,4 +1,4 @@
-## Oie! Meu nome é Kelvin, Desenvolvedor FrontEnd Junior  👋
+## Oie! Meu nome é Kelvin, Desenvolvedor Frontend  👋
 <div align="center">
   <a href="https://github.com/dillikel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dillikel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
