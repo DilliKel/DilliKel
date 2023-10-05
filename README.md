@@ -43,4 +43,3 @@
 ![Animação de cobra](https://github.com/dillikel/dillikel/blob/output/github-contribution-grid-snake.svg)
 
 
-
