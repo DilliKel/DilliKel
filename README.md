@@ -38,8 +38,9 @@
   - Estudante de Ciência da Computação pela UFRR;
   - Conhecimentos voltados a área do frontend e análise de dados.
 
-  ---
-  
+
+  <!-- 
+
 ![Animação de cobra](https://github.com/dillikel/dillikel/blob/output/github-contribution-grid-snake.svg)
 
-
+ -->
