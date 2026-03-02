@@ -2,8 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/dillikel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dillikel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillikel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -33,8 +31,8 @@
   </div>
   
   - Tenho 24 anos;
-  - Estudante de Ciência da Computação pela UFRR;
-  - Conhecimentos voltados a área do frontend e análise de dados.
+  - Cientista da Computação pela UFRR;
+  - Desenvolvedor Web & Mobile.
 
 
   <!-- 
